@@ -1,4 +1,4 @@
-=begin
+
 def oxford_comma(array)
 
 end
@@ -16,8 +16,4 @@ def oxford_comma(array)
 end
 
 oxford_comma(array)
-=end
-def oxford_comma(array)
-  array.join(",")
-end
 
